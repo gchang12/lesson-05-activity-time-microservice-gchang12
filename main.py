@@ -13,5 +13,4 @@ def home():
     """
     Prints epoch-time on home-page.
     """
-    #return str(get_epoch_time())
-    return 'a'
+    return str(get_epoch_time())
